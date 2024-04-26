@@ -4,7 +4,7 @@ Here, you'll find a collection of my projects, where I explore diverse datasets,
 
 
 
-- <b>My very first project: Predicting the Success of a Kikcstarter Campaign:</b>
+- <b>My very first project: Predicting the Success of a Kikcstarter Campaign:</b> (https://github.com/Elyes-Azzaz/Kickstarter-Campaigns-DataSet-P1)
  
 - <b>Predicting Customer Churn for Telecom /Telecommunications Company)</b>
  
