@@ -1,5 +1,5 @@
 <h1>Hi! 🌱 Welcome to my GitHub!</h1> 
-This space is a mix of my previous data work and my current journey into the SAP ecosystem.
+This space is a mix of my first Data Analysis work and my current journey into the SAP ABAP Programming ecosystem.
 
   
 Here, you'll find a collection of my projects, where I explore diverse datasets, apply analytical techniques, and strive to uncover actionable insights.💡
