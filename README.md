@@ -1,8 +1,6 @@
-<h1>Hi! 🌱 Welcome to my GitHub!</h1>I'm Grigoria, a budding Data Analyst with a keen for leveraging data to drive sustainability initiatives and make a positive impact on our planet.</h1>
+<h1>Hi! 🌱 Welcome to my GitHub!</h1>I'm Grigoria, and currently bridging the gap between data analysis and enterprise development. This space is a mix of my previous data projects and my current journey into the SAP ecosystem.h1>
   
 Here, you'll find a collection of my projects, where I explore diverse datasets, apply analytical techniques, and strive to uncover actionable insights.💡
-
-
 
 - <b>My very first project: Predicting the Success of a Kickstarter Campaign:</b> (https://github.com/Elyes-Azzaz/Kickstarter-Campaigns-DataSet-P1)
  
