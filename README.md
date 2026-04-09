@@ -10,4 +10,4 @@ Here, you'll find a collection of my projects, where I explore diverse datasets,
 (https://github.com/Grigoria94/Telecom-Customer-Churn-Project/blob/main/Classification%20case%20study%20-%20Telecom%20company.ipynb) 
 
 <h2> ⚡Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/grigoria-sourri-data-analyst
+[linkedin]: www.linkedin.com/in/grigoria-sourri
