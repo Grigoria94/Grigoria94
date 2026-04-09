@@ -1,4 +1,5 @@
-<h1>Hi! 🌱 Welcome to my GitHub!</h1>I'm Grigoria, and currently bridging the gap between data analysis and enterprise development. This space is a mix of my previous data projects and my current journey into the SAP ecosystem.h1>
+<h1>Hi! 🌱 Welcome to my GitHub!</h1> I'm Grigoria, and currently bridging the gap between data analysis and enterprise development. This space is a mix of my previous data projects and my current journey into the SAP ecosystem.
+
   
 Here, you'll find a collection of my projects, where I explore diverse datasets, apply analytical techniques, and strive to uncover actionable insights.💡
 
