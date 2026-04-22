@@ -5,7 +5,7 @@ I am Grigoria and this space is a mix of my first Data Analysis work and my curr
   
 Here, you'll find a collection of my projects, where I explore diverse datasets, apply analytical techniques, and strive to uncover actionable insights.💡
 
-- <b> My very first project: Predicting the Success of a Kickstarter Campaign - <b>
+- <b> My very first project: Predicting the Success of a Kickstarter Campaign
 Classification project identifying key drivers of successful crowdfunding campaigns using EDA and machine learning.
   
 - <b> Telecom Churn: Data Cleaning & Visualization
