@@ -13,7 +13,8 @@ Here, you'll find a collection of my projects, where I explore diverse datasets,
 
 * **SAP ABAP: Flight Management System:**
   Implementation of my first managed object for flight data, demonstrating backend development skills within the SAP ecosystem.
- 
+
+* **Hands-on Practice for Data Modelling in ABAP Dictionary and ABAP Core Data Services**
 
 <h2> ⚡Connect with me:</h2>
 [linkedin]: www.linkedin.com/in/grigoria-sourri
