@@ -1,4 +1,4 @@
-<h1>Hi! 🌱 Welcome to my GitHub!</h1> 
+<h1>Hi! 🤖 Welcome to my GitHub!</h1> 
 
 I am Grigoria and this space is a mix of my first Data Analysis work and my current journey into the SAP ABAP Programming ecosystem.
 
