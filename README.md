@@ -15,7 +15,7 @@ Here, you'll find a collection of my projects, where I explore diverse datasets,
   Implementation of my first managed object for flight data, demonstrating backend development skills within the SAP ecosystem.
 
 * **Hands-on Practice for Data Modelling in ABAP Dictionary and ABAP Core Data Services:**
-* Built the technical foundation of a custom data model in SAP S/4HANA by defining how data is stored in the ABAP Dictionary, (Units 2-3) and how it is initially consumed via modern CDS Views (Unit 4).
+  Built the technical foundation of a custom data model in SAP S/4HANA by defining how data is stored in the ABAP Dictionary, (Units 2-3) and how it is initially consumed via modern CDS Views (Unit 4).
 
 <h2> ⚡Connect with me:</h2>
 [linkedin]: www.linkedin.com/in/grigoria-sourri
